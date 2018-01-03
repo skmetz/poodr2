@@ -1,1 +1,1 @@
-# poodr2
+Practical Object Oriented-Design in Ruby, 2nd Edition
